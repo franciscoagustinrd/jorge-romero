@@ -2,7 +2,9 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
-
+.navbar-nav {
+  padding: 60px;
+}
 .img_arriba {
     width: 5rem;
 }
@@ -51,7 +53,7 @@ body {
   }
 
   .formato_p {
-    font-size: 20px;
+    font-size: 30px;
     letter-spacing: 5px;
     color: white;
   }
